@@ -2,6 +2,7 @@
   <configuration default="false" name="mysql" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
     <option name="ACTIVE_PROFILES" value="mysql" />
     <module name="practice" />
+    <option name="PROGRAM_PARAMETERS" value="requestDate=20240304" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.practice.PracticeApplication" />
     <method v="2">
       <option name="Make" enabled="true" />
